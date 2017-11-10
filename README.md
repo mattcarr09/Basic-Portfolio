@@ -1,4 +1,4 @@
-# <bold>Project Name</bold>
+# <bold>Responsive Bootstrap Portfolio</bold>
 This is a basic Bootstrap, responsive portfolio. It was created at the UCSD Coding Bootcamp as a homework assignment. It is hosted <a href="https://bootstrap-portfolio-cbc.herokuapp.com/">here</a> via Heroku.
 
 # Contributing
