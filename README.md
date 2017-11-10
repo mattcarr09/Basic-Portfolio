@@ -1,11 +1,6 @@
-# Basic-Portfolio
-Portfolio building 
+# 1:Project Name
+This is a basic Bootstrap, responsive portfolio. It was created at the UCSD Coding Bootcamp as a homework assignment. It is hosted <a href="https://bootstrap-portfolio-cbc.herokuapp.com/">here</a> via Heroku.
 
-Deployed app is hosted on<a href="https://bootstrap-portfolio-cbc.herokuapp.com/"> here</a>
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
-TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
 ## Usage
